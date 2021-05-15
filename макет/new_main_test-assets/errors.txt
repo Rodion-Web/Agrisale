@@ -1,0 +1,8 @@
+[2021-5-2 04:57:05] layer "Agrisale.ru - это интернет-магазин?": Expected end of input but "-" found.
+[2021-5-2 04:57:05] layer "Какие товары можно найти через Agrisale.ru? ": Expected end of input but "?" found.
+[2021-5-2 04:57:05] layer "Могу ли я получить более выгодные цены на Agrisale.ru чем на ры": Expected end of input but "\u0447" found.
+[2021-5-2 04:57:05] layer "Могут ли использовать Agrisale.ru частные лица? ": Expected end of input but "\u0447" found.
+[2021-5-2 04:57:05] layer "Стоит ли денег использование Agrisale.ru?": Expected end of input but "?" found.
+[2021-5-2 04:57:05] layer "Как я могу связаться с представителями Agrisale.ru?": Expected end of input but "?" found.
+[2021-5-2 04:57:05] layer "Если у Вас остальсь вопросы напишите нам info@agrisale.ru  или ": Expected end of input but "\u0438" found.
+[2021-5-2 04:57:05] layer "Могу ли я получить более выгодные цены на Agrisale.ru чем на ры": Expected end of input but "\u0447" found.
